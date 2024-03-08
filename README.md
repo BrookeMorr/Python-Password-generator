@@ -1,4 +1,4 @@
-## Password generator
+# Password generator
 This project will create a randomly generated strong password for you, based on reccomended tips from organzations such as Mircosoft, Google and more.
 
 ### What is considered a strong password?
